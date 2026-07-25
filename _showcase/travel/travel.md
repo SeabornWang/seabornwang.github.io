@@ -60,6 +60,7 @@ width: 12
           src="{{ '/assets/images/showcase/travel/travel-05.jpg' | relative_url }}"
           class="img-fluid rounded shadow-sm"
           alt="Travel photo 5"
+          loading="lazy"
           style="width: 100%; height: 230px; object-fit: cover;"
         >
       </div>
@@ -69,6 +70,7 @@ width: 12
           src="{{ '/assets/images/showcase/travel/travel-06.jpg' | relative_url }}"
           class="img-fluid rounded shadow-sm"
           alt="Travel photo 6"
+          loading="lazy"
           style="width: 100%; height: 230px; object-fit: cover;"
         >
       </div>
@@ -87,6 +89,7 @@ width: 12
           src="{{ '/assets/images/showcase/travel/travel-08.jpg' | relative_url }}"
           class="img-fluid rounded shadow-sm"
           alt="Travel photo 8"
+          loading="lazy"
           style="width: 100%; height: 230px; object-fit: cover;"
         >
       </div>
@@ -96,6 +99,7 @@ width: 12
           src="{{ '/assets/images/showcase/travel/travel-09.jpg' | relative_url }}"
           class="img-fluid rounded shadow-sm"
           alt="Travel photo 9"
+          loading="lazy"
           style="width: 100%; height: 230px; object-fit: cover;"
         >
       </div>
